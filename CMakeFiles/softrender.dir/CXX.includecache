@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zxtree/projects/softrender/src/light.hpp
+glm/glm.hpp
+-
+
+/home/zxtree/projects/softrender/src/render.cpp
+render.hpp
+/home/zxtree/projects/softrender/src/render.hpp
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+
+/home/zxtree/projects/softrender/src/render.hpp
+glm/glm.hpp
+-
+triangles.hpp
+/home/zxtree/projects/softrender/src/triangles.hpp
+assimp/scene.h
+-
+
+/home/zxtree/projects/softrender/src/triangles.hpp
+glm/glm.hpp
+-
+light.hpp
+/home/zxtree/projects/softrender/src/light.hpp
+

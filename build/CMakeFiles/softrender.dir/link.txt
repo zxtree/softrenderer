@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/softrender.dir/src/light.cpp.o CMakeFiles/softrender.dir/src/main.cpp.o CMakeFiles/softrender.dir/src/render.cpp.o CMakeFiles/softrender.dir/src/scene.cpp.o CMakeFiles/softrender.dir/src/triangles.cpp.o -o softrender   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lSDL2 -lSDL2_image -lm -ltcmalloc -lprofiler -lassimp 

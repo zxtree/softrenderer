@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/zxtree/projects/softrender/build",
+  "command": "/usr/bin/g++   -g   -Wall -ggdb -g -O0 -std=gnu++17 -o CMakeFiles/softrender.dir/src/light.cpp.o -c /home/zxtree/projects/softrender/src/light.cpp",
+  "file": "/home/zxtree/projects/softrender/src/light.cpp"
+},
+{
+  "directory": "/home/zxtree/projects/softrender/build",
+  "command": "/usr/bin/g++   -g   -Wall -ggdb -g -O0 -std=gnu++17 -o CMakeFiles/softrender.dir/src/main.cpp.o -c /home/zxtree/projects/softrender/src/main.cpp",
+  "file": "/home/zxtree/projects/softrender/src/main.cpp"
+},
+{
+  "directory": "/home/zxtree/projects/softrender/build",
+  "command": "/usr/bin/g++   -g   -Wall -ggdb -g -O0 -std=gnu++17 -o CMakeFiles/softrender.dir/src/render.cpp.o -c /home/zxtree/projects/softrender/src/render.cpp",
+  "file": "/home/zxtree/projects/softrender/src/render.cpp"
+},
+{
+  "directory": "/home/zxtree/projects/softrender/build",
+  "command": "/usr/bin/g++   -g   -Wall -ggdb -g -O0 -std=gnu++17 -o CMakeFiles/softrender.dir/src/scene.cpp.o -c /home/zxtree/projects/softrender/src/scene.cpp",
+  "file": "/home/zxtree/projects/softrender/src/scene.cpp"
+},
+{
+  "directory": "/home/zxtree/projects/softrender/build",
+  "command": "/usr/bin/g++   -g   -Wall -ggdb -g -O0 -std=gnu++17 -o CMakeFiles/softrender.dir/src/triangles.cpp.o -c /home/zxtree/projects/softrender/src/triangles.cpp",
+  "file": "/home/zxtree/projects/softrender/src/triangles.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/zxtree/projects/softrender/CMakeFiles/rebuild_cache.dir
+/home/zxtree/projects/softrender/CMakeFiles/edit_cache.dir
+/home/zxtree/projects/softrender/CMakeFiles/softrender.dir
